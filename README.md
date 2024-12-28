@@ -1,4 +1,4 @@
-# PRIMEROSE E-Commerce Website (Full-stack)🌸🛒
+# PRIMEROSE e-Commerce Website (Full-stack)🌸🛒
 
 **PRIMEROSE** is a fully-featured e-commerce platform built using the **MERN stack** (MongoDB, Express.js, React, Node.js)and other modern technologies. The website is designed to provide a seamless online shopping experience, including a user-friendly frontend, an intuitive admin panel for administrators to manage the store, and a robust backend to handle all the necessary server-side operations.This project aims to showcase the power of full-stack development and deliver an efficient, secure, and scalable e-commerce solution.
 
